@@ -28,6 +28,7 @@ class App extends Component {
         total: prevState.total + num,
       }));
     };
+    // hello
     return (
       <Container>
         <Counter initial={2} getTotal={getTotal} />
