@@ -1,0 +1,16 @@
+.plus{
+    background-color: lightskyblue;
+    margin-right:12px;
+}
+
+.min{
+    background-color: lightcoral;
+    margin-left: 12px;
+}
+button{
+    height: 45px;
+    width: 45px;
+    border: none !important;
+    cursor: pointer;
+    margin: 2px;
+}
